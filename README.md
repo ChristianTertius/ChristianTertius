@@ -17,13 +17,13 @@ I’m Chris, a Software Engineer based in Jakarta, Indonesia.
 
 I design and build web or mobile apps.
 
-My main tech stack is Laravel, react, typescript, tailwind, and framer motion.
+- My main tech stack is Laravel, react, typescript, tailwind, and framer motion.
 
-My main database is MySQL, Postgres, and Mongodb
+- My main database is MySQL, Postgres, and Mongodb
 
-I really love to typing, that's why my code editor is neovim, i used neovim btw
+- I really love to typing, that's why my code editor is neovim, i used neovim btw
 
 Fun Facts:
-I don’t like matcha
-Naruto is my favorite anime, but One Piece not bad
-Hobbies: badminton, music
+- I don’t like matcha
+- Naruto is my favorite anime, but One Piece not bad
+- Hobbies: badminton, music
