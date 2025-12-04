@@ -18,9 +18,7 @@ I’m Chris, a Software Engineer based in Jakarta, Indonesia.
 I design and build web or mobile apps.
 
 - My main tech stack is Laravel, react, typescript, tailwind, and framer motion.
-
 - My main database is MySQL, Postgres, and Mongodb
-
 - I really love to typing, that's why my code editor is neovim, i used neovim btw
 
 Fun Facts:
