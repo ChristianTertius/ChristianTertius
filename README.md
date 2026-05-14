@@ -30,4 +30,4 @@ Fun Facts:
 **“Don’t chase butterflies. Build a garden.
   Even if no butterflies come, you still have a beautiful garden.”**
 
-<img src="https://media1.giphy.com/media/1PXZZyQwpdfzYkmS3R/giphy.gif" width="400"/>
+<img src="https://media1.giphy.com/media/1PXZZyQwpdfzYkmS3R/giphy.gif" width="200"/>
